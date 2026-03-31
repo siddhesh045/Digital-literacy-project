@@ -37,8 +37,6 @@ These platforms will help me build my technical skills and professional presence
 ### Task 3 – Coding and Collaboration Platforms
 Completed a beginner coding challenge on HackerRank and created a Digital Literacy Quiz using Google Forms to spread awareness among students.
 
-Google Form Link:  
-*(Paste your form link here)*
 
 ### Task 4 – Professional Email & Etiquette
 Drafted two professional emails:
